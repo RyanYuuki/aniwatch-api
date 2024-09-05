@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/ghoshRitesh12/aniwatch-api">
+  <a href="https://github.com/RyanYuuki/aniwatch-api">
     <img 
       src="https://github.com/ghoshRitesh12/aniwatch-api/blob/main/public/img/img1.gif?raw=true" 
       alt="Logo" 
